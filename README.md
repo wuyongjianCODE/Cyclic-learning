@@ -2,7 +2,7 @@
 
 Official implementation of Cyclic Learning: Bridging Image-level Labels and Nuclei Instance Segmentation
 The original paper link is here:
-[arXiv link](to be update), [TMI link](to be update)
+[arXiv link](to be update), [TMI link](https://ieeexplore.ieee.org/document/10124051)
 This project provide code for experiments based on hovernet
 ## Installation
 
@@ -50,7 +50,12 @@ For ccrcc and consep datasets, please refer to current version and change some p
 ## Citing Cyclic Learning
 If you use Cyclic Learning in your work or wish to refer to the results published in this repo, please cite our paper:
 ```BibTeX
-
+@ARTICLE{zhou2023cyclic,
+  author={Zhou, Yang and Wu, Yongjian and Wang, Zihua and Wei, Bingzheng and Lai, Maode and Shou, Jianzhong and Fan, Yubo and Xu, Yan},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Cyclic Learning: Bridging Image-level Labels and Nuclei Instance Segmentation}, 
+  year={2023},
+  doi={10.1109/TMI.2023.3275609}}
 ```
 
 
