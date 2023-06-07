@@ -1,8 +1,8 @@
 # Cyclic Learning: Bridging Image-level Labels and Nuclei Instance Segmentation (experiment part 2)
 
 Official implementation of Cyclic Learning: Bridging Image-level Labels and Nuclei Instance Segmentation
-The original paper link is here: [TMI link](https://ieeexplore.ieee.org/document/10124051)。
-This project provide code for experiments based on hovernet。
+The original paper link is here: [TMI link](https://ieeexplore.ieee.org/document/10124051).
+This project provide code for experiments based on hovernet.
 ## Installation
 
 - Our project is developed on Hovernet. We modify some config for our specific task.
